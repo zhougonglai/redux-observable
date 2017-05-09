@@ -64,7 +64,7 @@
   "homepage": "https://github.com/redux-observable/redux-observable#README.md",
   "peerDependencies": {
     "redux": "3.*",
-    "rxjs": "^5.0.0"
+    "rxjs": "^5.3.3"
   },
   "devDependencies": {
     "@types/chai": "^3.4.34",
